@@ -1,2 +1,2 @@
 # veraeklundqvist.github.io
-Portfolio website showcasing
+Portfolio website showcasing my hobbies, interests and accomplishments!
