@@ -106,7 +106,10 @@ body {
     border: none;
     border-radius: 10px;
     cursor: pointer; 
-    white-space: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
 }
 
 .button:hover {
@@ -142,5 +145,17 @@ body {
 .veraeklundqvist h3 {
   font-family: "Climate Crisis", sans-serif;
   color: #7BA05B;
-  
+  font-size: 2vw;
+  transform: scaleY(2);
+  text-align: center;
+  padding-top: 3vh;
+}
+
+.comingsoon {
+  font-family: "Climate Crisis", sans-serif;
+  color: #7BA05B;
+  font-size: 4vw;
+  transform: scaleY(2);
+  text-align: center;
+  padding-top: 30vh;
 }
